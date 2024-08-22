@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078204721197",
+    "project_id": "task-3-44e83",
+    "storage_bucket": "task-3-44e83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078204721197:android:9f7f36a596c95c1b05b0a4",
+        "android_client_info": {
+          "package_name": "com.kawish.task_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwfyt3YcbuzniB53mDihJ1zXF1M_Sqpes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
